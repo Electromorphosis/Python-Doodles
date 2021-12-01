@@ -1,2 +1,2 @@
 # Python python
-Python exercises, see: about.
+Some things in python.
