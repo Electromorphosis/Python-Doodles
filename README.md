@@ -1,2 +1,2 @@
-# Python python
+# Readme
 Some things in python.
